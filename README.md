@@ -2,11 +2,12 @@
 This is a basic example of a Content Management Tool (CMS) web application built using HTML, CSS, and JavaScript. It provides a minimalistic interface for displaying content.
 
 # Table of Contents
--Features
--Installation
--Usage
--Customization
--License
+- Features⚙️
+- Demo Video📹
+- Installation⏬
+- Usage🪴
+- Customization
+- License
 
 # Features
 **Content Display**: The CMS displays content dynamically on the web page. In this example, it simulates loading content from an array.
@@ -14,6 +15,14 @@ This is a basic example of a Content Management Tool (CMS) web application built
 **Navigation**: There is a navigation menu that allows you to switch between different sections of the CMS.
 
 **Basic Styling**: The CMS includes basic styling using CSS for a clean and readable user interface.
+
+# Demo Video
+
+
+
+https://github.com/pavansundar9/ContentManagementTool/assets/141473568/e8c5f375-2da7-4cd3-a9a9-7c565c87262c
+
+
 
 # Installation
 
