@@ -19,7 +19,7 @@ This is a basic example of a Content Management Tool (CMS) web application built
 
 Clone or download this repository to your local machine:
 
--- git clone https://github.com/yourusername/simple-cms.git
+-- git clone https://github.com/pavansundar9/ContentManagementTool.git
 
 -- Open the index.html file in your web browser.
 
