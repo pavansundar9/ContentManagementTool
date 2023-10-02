@@ -41,5 +41,3 @@ This is a simplified example. To customize this CMS for your needs, consider the
 
 **Additional Features**: Add more features and functionality, such as user authentication, content editing, and user management, depending on your requirements.
 
-# License
-This project is licensed under the MIT License - see the LICENSE file for details.
