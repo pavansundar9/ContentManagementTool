@@ -31,7 +31,7 @@ Use the navigation menu to switch between sections.
 
 Content is dynamically loaded and displayed in the main content area.
 
-#Customization
+# Customization
 
 This is a simplified example. To customize this CMS for your needs, consider the following:
 
@@ -41,5 +41,5 @@ This is a simplified example. To customize this CMS for your needs, consider the
 
 **Additional Features**: Add more features and functionality, such as user authentication, content editing, and user management, depending on your requirements.
 
-License
+# License
 This project is licensed under the MIT License - see the LICENSE file for details.
